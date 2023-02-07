@@ -31,8 +31,8 @@ Then crop/optimize/edit your image however you like, add it to your project, and
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://www.frontendmentor.io/solutions/qr-code-component-Put7ha34pC)
-- Live Site URL: [Add live site URL here](https://nvious7-qr-code-component.netlify.app/)
+- Solution URL: [SOLUTION PAGE](https://www.frontendmentor.io/solutions/qr-code-component-Put7ha34pC)
+- Live Site URL: [LIVE WEB PAGE](https://nvious7-qr-code-component.netlify.app/)
 
 ## My process
 
